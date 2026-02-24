@@ -24,4 +24,3 @@ A simple web app to manage a personal book collection. Users can add, search, ca
 **Nimra Ashraf** – Frontend Developer
 
 
-If you want an even shorter (minimal) version for a clean GitHub look, tell me 👍
